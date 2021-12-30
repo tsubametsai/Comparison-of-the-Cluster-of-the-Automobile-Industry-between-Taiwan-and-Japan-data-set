@@ -1,0 +1,101 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel"><head><meta http-equiv="Content-Type" content="charset=big5"><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>matrix</x:Name><x:WorksheetOptions><x:Print><x:ValidPrinterInfo/></x:Print></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--> </head><body><style>.stub1{mso-style-parent:style0;mso-number-format:"\@";}.stub2{mso-style-parent:style0;mso-number-format:"\@";}.stub3{mso-style-parent:style0;mso-number-format:"\@";}.stub4{mso-style-parent:style0;mso-number-format:"\@";}.stub5{mso-style-parent:style0;mso-number-format:"\@";}.stub6{mso-style-parent:style0;mso-number-format:"\@";}.headfirst{mso-style-parent:style0;mso-number-format:"\@";}.headlast{mso-style-parent:style0;mso-number-format:"\@";}.headmid{mso-style-parent:style0;mso-number-format:"\@";}.title{mso-style-parent:style0;text-align:left;}</style><table class="pxtable"border="1"cellpadding="5"cellspacing="0">
+<tr>
+<th class="title" colspan="23">【改制後】縣市人力資源重要統計指標 依 期間, 指標 與 縣市 </th>
+</tr>
+<tr>
+<th class="headfirst" colspan="1" rowspan="1">&nbsp;</th>
+<th class="headfirst" colspan="1"> 新北市</th>
+<th class="headfirst" colspan="1"> 臺北市</th>
+<th class="headfirst" colspan="1"> 桃園市</th>
+<th class="headfirst" colspan="1"> 臺中市</th>
+<th class="headfirst" colspan="1"> 臺南市</th>
+<th class="headfirst" colspan="1"> 高雄市</th>
+<th class="headfirst" colspan="1"> 宜蘭縣</th>
+<th class="headfirst" colspan="1"> 新竹縣</th>
+<th class="headfirst" colspan="1"> 苗栗縣</th>
+<th class="headfirst" colspan="1"> 彰化縣</th>
+<th class="headfirst" colspan="1"> 南投縣</th>
+<th class="headfirst" colspan="1"> 雲林縣</th>
+<th class="headfirst" colspan="1"> 嘉義縣</th>
+<th class="headfirst" colspan="1"> 屏東縣</th>
+<th class="headfirst" colspan="1"> 臺東縣</th>
+<th class="headfirst" colspan="1"> 花蓮縣</th>
+<th class="headfirst" colspan="1"> 澎湖縣</th>
+<th class="headfirst" colspan="1"> 基隆市</th>
+<th class="headfirst" colspan="1"> 新竹市</th>
+<th class="headfirst" colspan="1"> 嘉義市</th>
+<th class="headfirst" colspan="1"> 金門縣</th>
+<th class="headfirst" colspan="1"> 連江縣</th>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2019</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" > 勞動力參與率</td>
+<td nowrap>59.2</td><td nowrap>58.3</td><td nowrap>57.2</td><td nowrap>58.1</td><td nowrap>63.1</td><td nowrap>58.2</td><td nowrap>61.4</td><td nowrap>61.0</td><td nowrap>58.5</td><td nowrap>59.0</td><td nowrap>62.3</td><td nowrap>59.9</td><td nowrap>60.5</td><td nowrap>61.9</td><td nowrap>59.4</td><td nowrap>56.9</td><td nowrap>52.1</td><td nowrap>57.5</td><td nowrap>58.8</td><td nowrap>59.5</td><td nowrap>57.2</td><td nowrap>70.8</td>
+</tr>
+<tr>
+<td class="stub2" > 失業率</td>
+<td nowrap>3.8</td><td nowrap>3.7</td><td nowrap>3.8</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>3.8</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>3.6</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>3.6</td><td nowrap>3.6</td><td nowrap>3.7</td><td nowrap>3.8</td><td nowrap>3.7</td><td nowrap>3.7</td><td nowrap>1.1</td><td nowrap>0.1</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之行業結構-工業</td>
+<td nowrap>34.01</td><td nowrap>18.25</td><td nowrap>44.23</td><td nowrap>40.77</td><td nowrap>41.58</td><td nowrap>36.47</td><td nowrap>30.81</td><td nowrap>49.41</td><td nowrap>46.43</td><td nowrap>47.22</td><td nowrap>27.04</td><td nowrap>34.46</td><td nowrap>32.61</td><td nowrap>31.32</td><td nowrap>18.34</td><td nowrap>23.74</td><td nowrap>21.35</td><td nowrap>27.43</td><td nowrap>43.97</td><td nowrap>26.77</td><td nowrap>24.08</td><td nowrap>19.37</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之教育程度結構-大專及以上</td>
+<td nowrap>53.09</td><td nowrap>79.11</td><td nowrap>48.96</td><td nowrap>52.17</td><td nowrap>45.90</td><td nowrap>51.20</td><td nowrap>43.93</td><td nowrap>52.76</td><td nowrap>42.48</td><td nowrap>40.84</td><td nowrap>40.06</td><td nowrap>36.59</td><td nowrap>32.52</td><td nowrap>36.70</td><td nowrap>31.91</td><td nowrap>44.65</td><td nowrap>45.96</td><td nowrap>51.53</td><td nowrap>61.82</td><td nowrap>62.67</td><td nowrap>42.15</td><td nowrap>45.99</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之教育程度結構-高中(職)</td>
+<td nowrap>32.34</td><td nowrap>17.09</td><td nowrap>37.58</td><td nowrap>35.14</td><td nowrap>32.02</td><td nowrap>35.46</td><td nowrap>28.20</td><td nowrap>35.31</td><td nowrap>39.47</td><td nowrap>35.22</td><td nowrap>32.78</td><td nowrap>31.72</td><td nowrap>31.80</td><td nowrap>38.74</td><td nowrap>34.93</td><td nowrap>35.13</td><td nowrap>34.25</td><td nowrap>33.71</td><td nowrap>29.06</td><td nowrap>29.05</td><td nowrap>37.20</td><td nowrap>30.89</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之教育程度結構-國中及以下</td>
+<td nowrap>14.57</td><td nowrap>3.80</td><td nowrap>13.46</td><td nowrap>12.69</td><td nowrap>22.08</td><td nowrap>13.34</td><td nowrap>27.87</td><td nowrap>11.93</td><td nowrap>18.05</td><td nowrap>23.94</td><td nowrap>27.16</td><td nowrap>31.69</td><td nowrap>35.68</td><td nowrap>24.56</td><td nowrap>33.16</td><td nowrap>20.22</td><td nowrap>19.79</td><td nowrap>14.76</td><td nowrap>9.12</td><td nowrap>8.28</td><td nowrap>20.65</td><td nowrap>23.12</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之年齡別結構-15-24歲</td>
+<td nowrap>7.82</td><td nowrap>6.24</td><td nowrap>7.76</td><td nowrap>7.73</td><td nowrap>7.30</td><td nowrap>7.33</td><td nowrap>10.02</td><td nowrap>7.93</td><td nowrap>8.12</td><td nowrap>7.57</td><td nowrap>8.24</td><td nowrap>7.46</td><td nowrap>7.62</td><td nowrap>8.48</td><td nowrap>7.68</td><td nowrap>7.94</td><td nowrap>9.54</td><td nowrap>8.86</td><td nowrap>6.63</td><td nowrap>7.63</td><td nowrap>7.67</td><td nowrap>1.97</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之年齡別結構-25-44歲</td>
+<td nowrap>52.94</td><td nowrap>51.94</td><td nowrap>57.19</td><td nowrap>55.48</td><td nowrap>49.57</td><td nowrap>51.49</td><td nowrap>48.18</td><td nowrap>55.00</td><td nowrap>51.87</td><td nowrap>53.03</td><td nowrap>45.65</td><td nowrap>47.67</td><td nowrap>43.84</td><td nowrap>46.28</td><td nowrap>46.10</td><td nowrap>48.63</td><td nowrap>53.11</td><td nowrap>49.07</td><td nowrap>57.02</td><td nowrap>49.80</td><td nowrap>42.16</td><td nowrap>38.78</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之年齡別結構-45-64歲</td>
+<td nowrap>37.55</td><td nowrap>39.61</td><td nowrap>33.91</td><td nowrap>35.16</td><td nowrap>39.18</td><td nowrap>38.82</td><td nowrap>38.12</td><td nowrap>35.56</td><td nowrap>37.80</td><td nowrap>36.45</td><td nowrap>41.51</td><td nowrap>40.02</td><td nowrap>41.22</td><td nowrap>40.68</td><td nowrap>42.23</td><td nowrap>41.06</td><td nowrap>36.10</td><td nowrap>39.75</td><td nowrap>35.23</td><td nowrap>39.82</td><td nowrap>46.78</td><td nowrap>53.33</td>
+</tr>
+<tr>
+<td class="stub2" > 就業者之年齡別結構-65歲及以上</td>
+<td nowrap>1.68</td><td nowrap>2.21</td><td nowrap>1.14</td><td nowrap>1.64</td><td nowrap>3.95</td><td nowrap>2.37</td><td nowrap>3.68</td><td nowrap>1.51</td><td nowrap>2.22</td><td nowrap>2.96</td><td nowrap>4.61</td><td nowrap>4.86</td><td nowrap>7.32</td><td nowrap>4.56</td><td nowrap>3.99</td><td nowrap>2.36</td><td nowrap>1.25</td><td nowrap>2.31</td><td nowrap>1.12</td><td nowrap>2.75</td><td nowrap>3.39</td><td nowrap>5.92</td>
+</tr>
+<tr>
+<td class="footnote" colspan="23"><B>註解：</B><BR>
+------------------------------<BR>指標項：勞動力人口數：(千人)<BR>定義：資料標準週內年滿十五歲可以工作之民間人口，包括就業者與失業者。<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：勞動力參與率：(％)<BR>定義：係指勞動力占十五歲以上民間人口之百分比。勞動力係指年滿十五歲可以<BR>       工作之民間人口，包括就業者及失業者。<BR>公式：（勞動力人口數／十五歲以上民間人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：失業率：(％)<BR>定義：指失業人口占勞動力之百分比。失業者指在資料標準週內年滿十五歲同時<BR>       具有下列條件者：ぇ無工作；え隨時可以工作；ぉ正在尋找工作或已找工作在<BR>       等待結果。此外，尚包括等待恢復工作者及找到職業而未開始工作亦無報酬者<BR>       。<BR>公式：（失業人口數／勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：年齡別失業率-15-24歲：(％)<BR>定義：15-24歲年齡組之失業率。<BR>公式：（15-24歲失業人口數／15-24歲勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：年齡別失業率-25-44歲：(％)<BR>定義：25-44歲年齡組之失業率。<BR>公式：（25-44歲失業人口數／25-44歲勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：年齡別失業率-45-64歲：(％)<BR>定義：45-64歲年齡組之失業率。<BR>公式：（45-64歲失業人口數／45-64歲勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：年齡別失業率-65歲及以上：(％)<BR>定義：65歲及以上年齡組之失業率。<BR>公式：（65歲及以上失業人口數／65歲及以上勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：教育程度別失業率-大專及以上：(％)<BR>定義：大專及以上程度者之失業率。<BR>公式：（大專及以上失業人口數／大專及以上勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：教育程度別失業率-高中(職)：(％)<BR>定義：高中（職）程度者之失業率。<BR>公式：（高中（職）失業人口數／高中（職）勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：教育程度別失業率-國中及以下：(％)<BR>定義：國中及以下程度者之失業率。<BR>公式：（國中及以下失業人口數／國中及以下勞動力人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業人口數：(千人)<BR>定義：資料標準週內年滿十五歲從事有酬工作者或從事十五小時以上之無酬家屬工作<BR>       者。<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之行業結構-工業：(％)<BR>定義：從事包括礦業及土石採取業、製造業、水電燃氣業與營造業之就業者占總就業<BR>       者之百分比。<BR>公式：（工業就業人口數／總就業人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之行業結構-服務業：(％)<BR>定義：從事包括批發及零售業、住宿及餐飲業、運輸倉儲及通信業 、金融及保險業<BR>       、不動產及租賃業、專業科學及技術服務業、教育服務業、醫療保健及社會福<BR>       利服務業、文化運動及休閒服務業、其他服務業與公共行政業之就業者占總就<BR>       業者之百分比。<BR>公式：（服務業就業人口數／總就業人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之行業結構-農林漁牧業：(％)<BR>定義：從事農林漁牧業之就業者占總就業者之百分比。<BR>公式：（農林漁牧業就業人口數／總就業人口數）＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之教育程度結構-大專及以上：(％)<BR>定義：大專及以上教育程度之就業者占總就業者之百分比。<BR>公式：(大專及以上程度就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之教育程度結構-高中(職)：(％)<BR>定義：高中（職）教育程度之就業者占總就業者之百分比。<BR>公式：(高中（職）程度就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之教育程度結構-國中及以下：(％)<BR>定義：國中及以下教育程度之就業者占總就業者之百分比。<BR>公式：(國中及以下程度就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之年齡別結構-15-24歲：(％)<BR>定義：15至24歲就業者占總就業者之百分比。<BR>公式：(15-24歲就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之年齡別結構-25-44歲：(％)<BR>定義：25至44歲就業者占總就業者之百分比。<BR>公式：(25-44歲就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之年齡別結構-45-64歲：(％)<BR>定義：45至64歲就業者占總就業者之百分比。<BR>公式：(45-64歲就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：就業者之年齡別結構-65歲及以上：(％)<BR>定義：65歲及以上就業者占總就業者之百分比。<BR>公式：(65歲及以上就業人口數/總就業人口數)＊100<BR>註記：自91年起金門縣於每年5月及11月各辦理1次人力資源抽樣調查；連江縣<BR>       於每年9月辦理1次普查。<BR>------------------------------<BR>指標項：失能傷害次數：(人次)<BR>定義：依職業安全衛生法規定，由中央主管機關指定，應填載職業災害情形之事業單<BR>       位，其勞工因發生職業災害致死亡、永久全失能、永久部分失能、暫時全失能<BR>       等傷害次數。<BR>註記：不包括經加區、科學園區及礦務局。<BR>------------------------------<BR>指標項：總經歷工時：(小時)<BR>定義：依職業安全衛生法規定，由中央主管機關指定，應填載職業災害情形之事業單<BR>       位，其所僱用之勞工及受工作場所負責人指揮或監督從事勞動者實際工作時數<BR>       之總和。關於推銷員或其他出差人員，因工時難以確定，一般以平均每日8小<BR>       時列計；待工人員經雇主方面同意者，其工時可按一般勞工計算。<BR>註記：不包括經加區、科學園區及礦務局。<BR>------------------------------<BR>指標項：失能傷害頻率：(人次/百萬工時)<BR>定義：依職業安全衛生法規定，由中央主管機關指定，應填載職業災害情形之事業單<BR>       位，其勞工因發生職業災害致死亡、永久全失能或永久部分失能、暫時全失能<BR>       等傷害次數之頻率。<BR>公式：(失能傷害次數／總經歷工時)*1,000,000<BR>註記：1.不包括經加區、科學園區及礦務局。2.失能傷害頻率=失能傷害次數／<BR>       總經歷工時＊1,000,000（小數點以下三位不計）。<BR><br><br>單位： 請看項目<br><br>統計單元：<br>CS0301A1A
+</td>
+</tr>
+</table>
+</body></html>

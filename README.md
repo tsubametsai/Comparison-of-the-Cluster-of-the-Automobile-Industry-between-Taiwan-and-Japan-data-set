@@ -1,6 +1,7 @@
 # Comparison-of-the-Cluster-of-the-Automobile-Industry-between-Taiwan-and-Japan-data-set
-1.這個項目包含研究所用的數據與說明，本研究用於分析的數據檔案為Taiwandata和Japandata，在這2個數據集，因為字元位數
-限制了圖表的輸出型態和文字格式的限制，因此對於樣本的縣市名使用羅馬拼音(縣市名中英對照表.xlsx)，特徵值以縮寫方式呈現。
+1.這個項目包含研究所用的數據與說明，本研究用於分析的數據檔案為Taiwandata和Japandata，在這2個數據集，
+因為字元位數限制了圖表的輸出型態和文字格式的限制，因此對於樣本的縣市名使用羅馬拼音，詳見"縣市名中英對照表.xlsx"檔，
+特徵值以縮寫方式呈現，詳見"名詞解釋.xlsx"檔。
 Cluster_analysis.ipynbs檔為完整程式碼，以供讀者重現或檢視研究結果。
 
 2.在數據收集方面，檔案保留原始狀態和檔名:
